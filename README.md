@@ -8,9 +8,11 @@ TODO: Delete this and the text above, and describe your gem
 
 Add this line to your application's Gemfile:
 
-```ruby
-gem 'devcamp_view_tool'
+```ruby 
+
+@copyright = ::Renderer.copyright 'Chris Cook', 'All rights reserved'
 ```
+
 
 And then execute:
 
@@ -41,3 +43,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the DevcampViewTool project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/devcamp_view_tool/blob/master/CODE_OF_CONDUCT.md).
+# chris_view_tool
